@@ -46,3 +46,9 @@ CPUだけ作っても動かないので、マザーボードやROM(メモリー)
 # いろいろな方への紹介文
 
 (以下工事中)
+
+# その他
+
+* 更新履歴: <https://github.com/amane-uehara/cpubook/commits/master>
+* マイナビ出版のページ: <https://book.mynavi.jp/supportsite/detail/9784839968519.html>
+* バグ・誤植の報告先: <https://github.com/amane-uehara/cpubook/issues>
