@@ -6,8 +6,6 @@
 
 <a target="_blank"  href="https://www.amazon.co.jp/gp/product/4839968519/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4839968519&linkCode=as2&tag=tukuroucpu-22&linkId=7971e347c2e7cd8d52296e29ad0efdab"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4839968519&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=tukuroucpu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tukuroucpu-22&l=am2&o=9&a=4839968519" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-![ ](top/cpu_cover.jpg)
-
 # 本書を購入して下さった方へ
 
 買ってくださってありがとうございます。
