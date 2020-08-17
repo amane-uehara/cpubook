@@ -1,6 +1,10 @@
 これはマイナビ出版の書籍
-[「作ろう！CPU 」](https://book.mynavi.jp/ec/products/detail/id=116654)
+
+<a target="_blank" href="https://www.amazon.co.jp/gp/product/4839968519/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4839968519&linkCode=as2&tag=tukuroucpu-22&linkId=1a4efec3926c4cd2cf5e72bee2e737de">作ろう！CPU ～基礎から理解するコンピューターのしくみ～</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tukuroucpu-22&l=am2&o=9&a=4839968519" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 のサポートページです。
+
+<a target="_blank"  href="https://www.amazon.co.jp/gp/product/4839968519/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4839968519&linkCode=as2&tag=tukuroucpu-22&linkId=7971e347c2e7cd8d52296e29ad0efdab"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=JP&ASIN=4839968519&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=tukuroucpu-22" ></a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tukuroucpu-22&l=am2&o=9&a=4839968519" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ![ ](top/cpu_cover.jpg)
 
@@ -58,6 +62,8 @@ CPUだけ作っても動かないので、マザーボードやROM(メモリー)
 上図はCPUを動かしたときの、電圧変動のタイムチャートです。
 さっぱり意味不明だと思いますが、上から3段目の`IN_B`とか`MOV_A_IMM`とか`ADD_A_IMM`は、いわゆる「機械語」というやつです。
 本書を読めばCPUの言葉が分かるようになります。
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=tukuroucpu-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839968519&linkId=916b3d5ce6ebc0319c4f6521d8aeff8b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
 # いろいろな方への紹介文
 
