@@ -118,21 +118,21 @@ int main(void) {
   int a, b;
   b = read_switch(); // キーボードの値を読み取る関数
 
-  do {               // ディスプレイに値を表示する関数
-    led(b) ;
+  do {
+    led(b);          // ディスプレイに値を表示する関数
 
     a = 13;
     do {
       a = a + 1;
-    } while (a < 16) ;
+    } while (a < 16);
 
     b = b + 1;
-  } while (b < 16) ;
+  } while (b < 16);
 
   do {
-    led(0) ;
-    led(15) ;
-  } while (true) ;
+    led(0);
+    led(15);
+  } while (true);
 
   return 0;
 }
