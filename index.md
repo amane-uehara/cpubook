@@ -79,6 +79,29 @@ CPU だけ作っても動かないので、マザーボードや ROM (メモリ�
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=tukuroucpu-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839968519&linkId=916b3d5ce6ebc0319c4f6521d8aeff8b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
+# 動作環境について
+
+本書の紙面内では、回路図の読み方や回路の設計方法など、ツール類にとらわれない「考え方」だけを説明しています。
+著者としては、FPGA の実機動作はあくまでオプションで、むしろ考え方を説明したいと思って本書を執筆しました。
+FPGA をさわる前に知っておくべき基礎知識を書籍として出版したのです。
+FPGA 開発環境のインストール方法や操作方法については、紙面に載せず、この web サポートページに記載しています。
+
+実際に FPGA を使って本書の回路を作る際の動作対応 OS は、以下のとおりです。
+
+* Windows 10 ... OK
+* Ubuntu 18.04以降 ... OK
+* macOS ... ダメ (動かすのがかなり大変)
+
+また動作検証済みの FPGA 評価ボードは、以下の3点です。
+どれも10000円から15000円程度で購入できます。
+他の機種についても、スイッチとLEDがそれぞれ4個以上搭載されていればたぶん動作すると思われます。
+
+* Arty (Xilinx社) ... 開発環境として Vivado を使用
+* Arty S7-50 (Xilinx社) ... 開発環境として Vivado を使用
+* DE0-Nano (Intel社) ... 開発環境として Quartus を使用
+
+この web サポートページでは、主に Windows 10 で Arty S7-50 を使う前提で説明しています。
+
 # いろいろな方への紹介文
 
 本書の想定読者は、電気や回路や CPU について何も知らない方です。
