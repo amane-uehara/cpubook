@@ -24,6 +24,6 @@
 
 ### 誤植の報告
 
-以下のgithub issuesへの投稿をお願いします。
+下記リンクの誤植の報告のGet startedボタンから、投稿をお願いします。
 
-<https://github.com/amane-uehara/cpubook/issues>
+<https://github.com/amane-uehara/cpubook/issues/new/choose>
