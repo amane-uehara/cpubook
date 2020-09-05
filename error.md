@@ -21,3 +21,9 @@
 * p198 上から4行目、eをボールド体に修正
 * p198 j={...}をj=[...]に修正
 * p204 "クラス分類で分類" -> "クラス分類"
+
+### 誤植の報告
+
+以下のgithub issuesへの投稿をお願いします。
+
+<https://github.com/amane-uehara/cpubook/issues>
