@@ -33,23 +33,34 @@ FPGAを扱うにはWindowsが一番楽です。
 
 を参考に、好きなボードを選んで下さい。
 
-# Linuxユーザーの方へ
+# Linux (Ubuntu) ユーザーの方へ
 
-Xilinx社のサポートページ
+まず重要なポイントですが
+**2020/09/08 現在、Ubuntu20.04ではVivadoが動きません。**
+Vivadoを動かすには旧バージョンのUbuntu18.04が必要です。
+
+さてVivadoのインストール方法ですが、まずXilinx社のサポートページ
 
 <https://japan.xilinx.com/support/download.html>
 
 の「ザイリンクス統合インストーラー Linux 用自己解凍型ウェブ インストーラー」
-をダウンロードして、Vivadoをインストールして下さい。
+をダウンロードしてVivadoをインストールして下さい。
 基本的にWindows版と同じように扱えるはずです。
+
+ただしLinux版では、デフォルトでケーブルドライバーがインストールされないようです。
+これがないと、FPGA評価ボードをUSBで接続してもVivadoに認識されません。
+下記リンクを参考に、ケーブルドライバーをインストールして下さい。
+
+* <https://japan.xilinx.com/support/answers/59128.html>
+* <http://openit.kek.jp/training/2015/fpga/docs/ar59128.pdf>
 
 # Macユーザーの方へ
 
 MacでFPGAを扱うのは、かなり厄介です。
-何らかの方法でMac上にLinuxの環境を作って、その上でVivadoを動かすことになります。
+何らかの方法でMac上にUbuntu18.04の環境を作って、その上でVivadoを動かすことになります。
 
-* デュアルブートでLinuxを入れて、その上でVivadoを動かす
-* Docker等でMac上にLinux環境を作り、その上でVivadoを動かす
+* デュアルブートでUbuntu18.04を入れて、その上でVivadoを動かす
+* Docker等でMac上にUbuntu18.04の仮想環境を作り、その上でVivadoを動かす
 
 などの方法が考えられますが、いずれにせよテクニカルです。
 もし動かなければ、2万円程度で中古ノートのWindows 7を調達するのが楽だと思います。
