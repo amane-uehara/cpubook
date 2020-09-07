@@ -226,15 +226,22 @@
 
 以下の最終確認画面が表示されます。
 
-* 15 source files will be added.
-* 1 constraints file will be added.
+* `15 source files will be added.`
+* `1 constraints file will be added.`
 
-と表示されていることを確認し、`Finish`ボタンを押します。
+と表示されていることを確認して下さい。
 
 34  
 ![ ](project_034.png)
 
-プロジェクトが作成され、以下の画面が開きます。
+以下は読者からの報告ですが
+
+> この画面で `15 source files` にならずに `5 source files` になる場合がある。
+> 環境によっては `chapter13/main` 以下のディレクトリが再帰的に読み込まれない。
+> このときは手動で `chapter13/main` 以下の子ディレクトリを1個1個追加して、`15 source files will be added.` が表示されるようにすれば、問題なく動く。
+
+無事にファイルの登録が確認できたら`Finish`ボタンを押して下さい。
+するとプロジェクトが作成され、以下の画面が開きます。
 
 35  
 ![ ](project_035.png)
