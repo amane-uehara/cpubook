@@ -98,6 +98,8 @@ CPU だけ作っても動かないので、マザーボードや ROM (メモリ�
 さっぱり意味不明だと思いますが、上から3段目の`IN_B`とか`MOV_A_IMM`とか`ADD_A_IMM`は、いわゆる「機械語」というやつです。
 本書を読めば CPU の言葉が分かるようになります。
 
+書籍の購入をご希望の方は [オンライン書店のリンク](https://amane-uehara.github.io/cpubook/#オンライン書店のリンク) をご参照ください。
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-fe.amazon-adsystem.com/e/cm?ref=qf_sp_asin_til&t=tukuroucpu-22&m=amazon&o=9&p=8&l=as1&IS1=1&detail=1&asins=4839968519&linkId=916b3d5ce6ebc0319c4f6521d8aeff8b&bc1=ffffff&lt1=_top&fc1=333333&lc1=0066c0&bg1=ffffff&f=ifr"></iframe>
 
 # 動作環境について
@@ -419,8 +421,46 @@ HDL を理解する上で重要なポイントは、以下の2つを分けて考
 本書はそうした歴史や文化を蔑ろにする本です。
 因習にとらわれず、ひたすら数理的整合性だけを突き詰めて、身も蓋もない形式で全てを理解するための本といえます。
 
-# その他
+# オンライン書店のリンク
 
-* 更新履歴: <https://github.com/amane-uehara/cpubook/commits/master>
-* マイナビ出版のページ: <https://book.mynavi.jp/supportsite/detail/9784839968519.html>
-* バグ・誤植の報告先: <https://github.com/amane-uehara/cpubook/issues>
+PDF版をご希望の方はマイナビ出版のサイトからご購入ください。
+紙版はいずれのサイトでもお買い求めいただけます。
+
+|ショップ|リンク|
+|:-------|:-----|
+|マイナビ出版|<https://book.mynavi.jp/supportsite/detail/9784839968519.html>|
+|アマゾン|<a target="_blank" href="https://www.amazon.co.jp/gp/product/4839968519/ref=as_li_tl?ie=UTF8&camp=247&creative=1211&creativeASIN=4839968519&linkCode=as2&tag=tukuroucpu-22&linkId=1a4efec3926c4cd2cf5e72bee2e737de">https://www.amazon.co.jp/gp/product/4839968519</a><img src="//ir-jp.amazon-adsystem.com/e/ir?t=tukuroucpu-22&l=am2&o=9&a=4839968519" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />|
+|楽天ブックス|<https://books.rakuten.co.jp/rb/16392746>|
+|セブンネットショッピング|<https://7net.omni7.jp/detail/1107117531>|
+|honto|<https://honto.jp/netstore/pd-book_30422205.html>|
+|紀伊国屋BookWeb|<https://www.kinokuniya.co.jp/f/dsg-01-9784839968519>|
+|TSUTAYAオンライン|<http://shop.tsutaya.co.jp/book/product/9784839968519/>|
+|HonyaClub|<https://www.honyaclub.com/shop/g/g20001707/>|
+|e-hon|<https://www.e-hon.ne.jp/bec/SA/Detail?refShinCode=0100000000000034105477>|
+|ヤマダモール|<https://ymall.jp/books/9784839968519/>|
+|ネオウイング|<https://www.neowing.co.jp/product/NEOBK-2526775>|
+|DMM.com|<https://www.dmm.com/mono/book/-/detail/=/cid=bkt34105477/>|
+|ヨドバシドットコム|<https://www.yodobashi.com/product/100000009003309434/>|
+|ヤフーショッピング|<https://shopping.yahoo.co.jp/search?p=9784839968519&uIv=off>|
+
+# リンク
+
+|ページ|URL|
+|:-----|:--|
+|バグ・誤植の報告先|<https://github.com/amane-uehara/cpubook/issues>|
+|0章と1章の試し読みPDF|<https://book.mynavi.jp/files/topics/116654_ext_90_0.pdf>|
+|色覚異常の方向けのPDF配布情報|<https://book.mynavi.jp/pcbook/blog/detail/id=119121>|
+
+# 更新履歴
+
+##### 書籍の更新履歴
+
+|発行日        |版と刷   |
+|:-------------|---------|
+|2020年08月26日|初版第1刷|
+|2020年09月15日|初版第2刷|
+|2020年10月20日|初版第3刷|
+
+##### サイトの更新履歴
+
+<https://github.com/amane-uehara/cpubook/commits/master>
