@@ -8,7 +8,7 @@
 6. [電圧シミュレーション](../wave/index.md)
 7. [ソースコードのコンパイル](../compile/index.md) <------- (here)
 
-[目次のページに戻る](../howto/index.md)
+[目次のページに戻る](../vivado/index.md)
 
 # ソースコードのビルド
 
