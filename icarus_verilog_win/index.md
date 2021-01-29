@@ -2,8 +2,8 @@
 
 このページでは、フリーのハードウェア開発ツール
 
-* Icarus Verilog
-* GTKWave
+* [Icarus Verilog](http://iverilog.icarus.com)
+* [GTKWave](http://gtkwave.sourceforge.net)
 
 を用いて本書のテストベンチを動かす方法について説明します。
 これらのツールはMacOSやUbuntuでも動作しますが、以下ではWindows10を前提に説明します。
