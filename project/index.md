@@ -1,12 +1,10 @@
 ### 作業の目次
 
-1. [Vivadoのダウンロード](../download/index.md)
-2. [Vivadoのインストール](../install/index.md)
-3. [Vivadoへのデバイス情報の追加](../board/index.md)
-4. [プロジェクトの作成](../project/index.md) <------- (here)
-5. [回路図の表示](../schematic/index.md)
-6. [電圧シミュレーション](../wave/index.md)
-7. [ソースコードのコンパイル](../compile/index.md)
+1. [Vivadoへのデバイス情報の追加](../board/index.md)
+2. [プロジェクトの作成](../project/index.md) ← (here)
+3. [回路図の表示](../schematic/index.md)
+4. [電圧シミュレーション](../wave/index.md)
+5. [ソースコードのコンパイル](../compile/index.md)
 
 [目次のページに戻る](../vivado/index.md)
 
@@ -61,7 +59,7 @@
 
 ### Vivadoにソースコードを読み込む
 
-デスクトップの Vivado 2020.1 のショートカットをクリックして、 Vivado を起動します。
+デスクトップの Vivado のショートカットをクリックして、 Vivado を起動します。
 
 05  
 ![ ](project_005.png)

@@ -12,18 +12,23 @@
 というFPGA評価ボードを想定します。
 以下の手順でCPUを作って動かして下さい！
 
-1. [Vivadoのダウンロード](../download/index.md)
-2. [Vivadoのインストール](../install/index.md)
-3. [Vivadoへのデバイス情報の追加](../board/index.md)
-4. [プロジェクトの作成](../project/index.md)
-5. [回路図の表示](../schematic/index.md)
-6. [電圧シミュレーション](../wave/index.md)
-7. [ソースコードのコンパイル](../compile/index.md)
+まず統合開発環境のVivadoをインストールします。
 
-手順1から6についてはFPGA評価ボードを使用しません。
+[Vivadoのインストール](https://amane-uehara.github.io/how_to_install_vitis/vitis2022/)
+
+次にインストールしたVivadoでCPUを作っていきます。
+以下のページを順に実施して下さい。
+
+1. [Vivadoへのデバイス情報の追加](../board/index.md)
+2. [プロジェクトの作成](../project/index.md)
+3. [回路図の表示](../schematic/index.md)
+4. [電圧シミュレーション](../wave/index.md)
+5. [ソースコードのコンパイル](../compile/index.md)
+
+手順1から4についてはFPGA評価ボードを使用しません。
 これだけでも、だいぶCPUを作って動かした感があります。
 
-手順7のソースコードのコンパイルを済ませたら、FPGA評価ボードが欲しくなると思います。
+手順5のソースコードのコンパイルを済ませたら、FPGA評価ボードが欲しくなると思います。
 購入の際は
 
 * [本書の対象のFPGA評価ボード](../product/index.md)
@@ -32,11 +37,7 @@
 
 # Linux (Ubuntu) ユーザーの方へ
 
-まず重要なポイントですが
-**2020/09/08 現在、Ubuntu20.04ではVivadoが動きません。**
-Vivadoを動かすには旧バージョンのUbuntu18.04が必要です。
-
-さてVivadoのインストール方法ですが、まずXilinx社のサポートページ
+Vivadoのインストール方法ですが、まずXilinx社のサポートページ
 
 <https://japan.xilinx.com/support/download.html>
 
@@ -54,10 +55,10 @@ Vivadoを動かすには旧バージョンのUbuntu18.04が必要です。
 # Macユーザーの方へ
 
 MacでFPGAを扱うのは、かなり厄介です。
-何らかの方法でMac上にUbuntu18.04の環境を作って、その上でVivadoを動かすことになります。
+何らかの方法でMac上にUbuntu22.04の環境を作って、その上でVivadoを動かすことになります。
 
-* デュアルブートでUbuntu18.04を入れて、その上でVivadoを動かす
-* Docker等でMac上にUbuntu18.04の仮想環境を作り、その上でVivadoを動かす
+* デュアルブートでUbuntu22.04を入れて、その上でVivadoを動かす
+* Docker等でMac上にUbuntu22.04の仮想環境を作り、その上でVivadoを動かす
 
 などの方法が考えられますが、いずれにせよテクニカルです。
 もし動かなければ、2万円程度で中古ノートのWindows 7を調達するのが楽だと思います。

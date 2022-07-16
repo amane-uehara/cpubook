@@ -1,12 +1,10 @@
 ### 作業の目次
 
-1. [Vivadoのダウンロード](../download/index.md)
-2. [Vivadoのインストール](../install/index.md)
-3. [Vivadoへのデバイス情報の追加](../board/index.md) <------- (here)
-4. [プロジェクトの作成](../project/index.md)
-5. [回路図の表示](../schematic/index.md)
-6. [電圧シミュレーション](../wave/index.md)
-7. [ソースコードのコンパイル](../compile/index.md)
+1. [Vivadoへのデバイス情報の追加](../board/index.md) ← (here)
+2. [プロジェクトの作成](../project/index.md)
+3. [回路図の表示](../schematic/index.md)
+4. [電圧シミュレーション](../wave/index.md)
+5. [ソースコードのコンパイル](../compile/index.md)
 
 [目次のページに戻る](../vivado/index.md)
 
@@ -34,7 +32,9 @@
 ![ ](board_003.png)
 
 次に `C:\Xilinx\Vivado\2020.1\data\boards\board_files` のフォルダを開きます。
-そしてさっきの基板情報の全フォルダを移動します。
+`2020.1`の部分は、インストールしたVivadoのバージョンに応じて異なります。
+
+このフォルダの中に、さっきの基板情報の全フォルダを移動します。
 
 04  
 ![ ](board_004.png)
