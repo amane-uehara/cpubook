@@ -14,7 +14,7 @@
 
 まず統合開発環境のVivadoをインストールします。
 
-[Vivadoのインストール](https://amane-uehara.github.io/how_to_install_vitis/vitis2022/)
+[Vivadoのインストール](https://amane-uehara.github.io/how-to-install-vitis/vitis2022/)
 
 次にインストールしたVivadoでCPUを作っていきます。
 以下のページを順に実施して下さい。
