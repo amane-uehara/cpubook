@@ -1,10 +1,9 @@
 ### 作業の目次
 
-1. [Vivadoへのデバイス情報の追加](../board/index.md)
-2. [プロジェクトの作成](../project/index.md)
-3. [回路図の表示](../schematic/index.md) ← (here)
-4. [電圧シミュレーション](../wave/index.md)
-5. [ソースコードのコンパイル](../compile/index.md)
+1. [プロジェクトの作成](../project/index.md)
+2. [回路図の表示](../schematic/index.md) ← (here)
+3. [電圧シミュレーション](../wave/index.md)
+4. [ソースコードのコンパイル](../compile/index.md)
 
 [目次のページに戻る](../vivado/index.md)
 
