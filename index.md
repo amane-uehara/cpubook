@@ -26,7 +26,7 @@
 対応策として、色を変更したPDFを配布しております。
 詳細は下記リンクをご参照ください。
 
-<https://book.mynavi.jp/pcbook/blog/detail/id=119121>
+<https://book.mynavi.jp/ec/products/detail/id=116654>
 
 また誤植については
 [誤植のページ](error.md)
@@ -449,7 +449,7 @@ PDF版をご希望の方はマイナビ出版のサイトからご購入くだ�
 |:-----|:--|
 |バグ・誤植の報告先|<https://github.com/amane-uehara/cpubook/issues>|
 |0章と1章の試し読みPDF|<https://book.mynavi.jp/files/topics/116654_ext_90_0.pdf>|
-|色覚異常の方向けのPDF配布情報|<https://book.mynavi.jp/pcbook/blog/detail/id=119121>|
+|色覚異常の方向けのPDF配布情報|<https://book.mynavi.jp/ec/products/detail/id=116654>|
 
 # 更新履歴
 
